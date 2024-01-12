@@ -29,6 +29,5 @@ def rolador_status(dados):
         lista_status.append(status)
     print(lista_numeros)
     return(lista_status)
-    
 
 print(rolador_status("4d6"))
